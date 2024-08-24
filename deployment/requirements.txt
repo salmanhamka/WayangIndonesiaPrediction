@@ -1,0 +1,8 @@
+streamlit
+pandas
+seaborn
+matplotlib
+numpy
+scikit-learn
+plotly
+tensorflow==2.15.0

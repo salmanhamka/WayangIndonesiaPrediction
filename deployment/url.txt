@@ -1,0 +1,13 @@
+link huggingface
+
+
+https://huggingface.co/spaces/samanhamka/P2G7_SALMAN_HAMKA
+
+
+link kaggle
+
+https://www.kaggle.com/datasets/gibranfadilla/indonesian-wayang-types/data
+
+
+link model
+https://drive.google.com/drive/folders/1ZbFruVWtSUmASDPYXffN2W7uG8BZlYOQ?usp=drive_link
